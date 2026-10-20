@@ -1,0 +1,18 @@
+# =========================================================
+# .gitignore da TechBairro (Aula 24)
+# =========================================================
+
+# Banco de dados com os dados pessoais dos clientes (LGPD)
+*.db
+
+# Pasta que o Python gera sozinho ao importar os módulos
+__pycache__/
+
+# Arquivos compilados do Python
+*.pyc
+
+# Pacotes .zip gerados pelo gerar_pacote.py (Aula 18)
+*.zip
+
+# Pasta com arquivos gerados da distribuição
+dist/
