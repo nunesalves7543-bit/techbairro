@@ -1,0 +1,49 @@
+COMO EXECUTAR – TECHBAIRRO
+
+1. REQUISITOS
+
+- Ter o Python instalado no computador.
+- Ter os arquivos do projeto TechBairro.
+- Utilizar o Visual Studio Code ou outro terminal.
+
+2. COMO ABRIR O PROJETO
+
+1. Abra o Visual Studio Code.
+2. Clique em “Arquivo” e depois em “Abrir Pasta”.
+3. Selecione a pasta TechBairro.
+4. Abra o terminal pelo menu “Terminal” → “Novo Terminal”.
+
+3. COMO EXECUTAR
+
+No terminal, digite:
+
+python techbairro.py
+
+Se o comando não funcionar no Windows, tente:
+
+py techbairro.py
+
+Aguarde a abertura da janela do sistema.
+
+4. BANCO DE DADOS
+
+O sistema utiliza SQLite para armazenar os dados dos clientes. Dependendo da configuração do projeto, o banco de dados será criado automaticamente ao executar o programa.
+
+Não exclua o banco de dados se ele contiver informações importantes.
+
+5. SOLUÇÃO DE PROBLEMAS
+
+Se o programa não abrir:
+
+- Verifique se o Python está instalado.
+- Confira se o terminal está na pasta correta.
+- Verifique se o arquivo techbairro.py existe.
+- Leia a mensagem de erro exibida no terminal.
+
+6. CÓDIGO-FONTE E VERSÕES
+
+https://github.com/SEU_USUARIO/techbairro
+
+Substitua SEU_USUARIO pelo seu nome de usuário do GitHub.
+
+Projeto acadêmico – Técnico em Desenvolvimento de Sistemas – Senac DF.
