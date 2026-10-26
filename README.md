@@ -1,4 +1,4 @@
-# TechBairro
+# TechBairro 3.3.2
 
 Sistema de cadastro de clientes desenvolvido em Python para uma associação de moradores, como projeto do curso Técnico em Desenvolvimento de Sistemas do Senac DF.
 
