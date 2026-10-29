@@ -1,4 +1,4 @@
-## v3.3.1 (Aula 21)
+## v3.3.2 (Aula 21)
 
 - Separada a classe Cliente no arquivo cliente.py.
 - Separada a classe GerenciadorClientes no arquivo banco.py.
