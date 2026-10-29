@@ -1,7 +1,7 @@
 import os
 import zipfile
 
-VERSAO = "3.3.1"
+VERSAO = "3.3.2"
 
 PASTA_PROJETO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PASTA_DIST = os.path.join(PASTA_PROJETO, "dist")
